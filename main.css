@@ -1,0 +1,40 @@
+body {
+    background:radial-gradient(circle farthest-corner at left bottom,skyBlue,blue);
+    background-repeat: no-repeat;
+    margin: 0;
+    background-attachment: fixed;
+}
+
+.vc {
+ 
+  
+  min-height: 99%;
+  min-height: 99vh; /* These two lines are counted as one :-)       */
+  margin-top: auto;
+  margin-bottom: auto;
+  display: flex;
+  align-items: center;
+}
+
+.ct {
+  align-items: center;
+  margin: -1 auto;
+  width:499px;
+  background-color: aliceblue;
+}
+
+
+.center {
+    margin: -1 auto;
+    text-align: center;
+    align-items: center;
+}
+
+.photo{
+  height: 50px;
+  width: 50px;
+}
+
+
+
+
