@@ -25,14 +25,21 @@ body {
 
 
 .center {
-    margin: -1 auto;
+
     text-align: center;
     align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 .photo{
   height: 50px;
   width: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 
